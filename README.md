@@ -1,3 +1,3 @@
 # Workshop
 Workshop_Files:
-Περιλαμβάνεται το PowerPoint του Workshop και ότι αρχεία κώδικα σε MATLAB θα χρειαστούν.
+Περιλαμβάνεται η παρουσίαση του Workshop σε pptx και pdf format και ότι αρχεία κώδικα σε MATLAB θα χρειαστούν.
